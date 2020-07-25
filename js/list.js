@@ -152,61 +152,20 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=owv5r9ZCvCs",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "Soda",
-					"link": "https://www.youtube.com/watch?v=3q1L67bqKe0",
-					"percent": 100,
-					"hz": "75hz"
-				},
-				{
-					"user": "AcropolisBoy",
-					"link": "https://youtu.be/7CGDyvOWgKc",
-					"percent": 72,
-					"hz": "240hz"
-				},
-				{
-					"user": "Fhyron06",
-					"link": "https://www.youtube.com/watch?v=BnZexkV-QjI",
-					"percent": 100,
-					"hz": "240hz"
-				},
-				{
-					"user": "zMarc",
-					"link": "https://youtu.be/nriqQY8nh1c",
+					"user": "Cailloux
+					"link": "https://youtu.be/c4jfjQdQ43I",
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "1qawsz",
-					"link": "https://youtu.be/bXZkAgWkHnw",
-					"percent": 100,
-					"hz": "120hz"
-				},
-				{
-					"user": "iRaily",
-					"link": "https://youtu.be/2Ug__m4QqYc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Amedxx2y",
-					"link": "https://youtu.be/O7OP_1gQRn0",
-					"percent": 100,
-					"hz": "Mobile"
-				},
+
 			],
-			"name": "Shitty Triple Six",
-			"author": "LJosh",
+			"name": "The Tartarus",
+			"author": "GhOS7 [GDMeric]",
 			"more": "none",
-			"id": 59558238,
-			"pass": "0005",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=oFUBGkctzR0",
+			"id": 158,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/rkH4BALo4Ig",
 			"key": 7
 		},
 		/*=================================================================================*/
@@ -270,8 +229,8 @@ const d = {
 					"hz": "288hz"
 				},
 			],
-			"name": "Shitty Balengu Vortex",
-			"author": "LJosh",
+			"name": "Tartarus 1337",
+			"author": "GDMeric",
 			"more": "none",
 			"id": 59558248,
 			"pass": "0002",
