@@ -299,13 +299,13 @@ const d = {
 			"vids": [
  			
 			],
-			"name": "Immunity",
-			"author": "GDMeric",
+			"name": "Shitty Renevant",
+			"author": "Acropolisboy [LJosh]",
 			"more": "none",
-			"id": 9,
-			"pass": "Not Copyable",
-			"percentToQualify": 35,
-			"verificationVid": "https://youtu.be/0wNAV2AOcds",
+			"id": 58163785,
+			"pass": "100006",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=RPDmLNJBpMc",
 			"key": 14
 		},
 		/*=================================================================================*/
