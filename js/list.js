@@ -159,6 +159,19 @@ const d = {
 			"key": 7
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Tartarus 1337",
+			"author": "GDMeric",
+			"more": "none",
+			"id": 15,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/vWVTHhcbYRg",
+			"key": 8
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
