@@ -279,6 +279,19 @@ const d = {
 			"key": 13
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Immunity",
+			"author": "GDMeric",
+			"more": "none",
+			"id": 9,
+			"pass": "Not Copyable",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/0wNAV2AOcds",
+			"key": 14
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
