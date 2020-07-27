@@ -115,6 +115,31 @@ const d = {
 			"key": 5
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/WqwWHTifVso",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "GDMeric",
+                                         "link": "https://youtu.be/qGTPLq7SJUI",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },		
+			],
+			"name": "Lenox",
+			"author": "Lacley",
+			"more": "none",
+			"id": 82,
+			"pass": "957349",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/qGTPLq7SJUI",
+			"key": 6
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
