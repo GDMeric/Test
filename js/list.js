@@ -11,7 +11,7 @@ const d = {
                                 },
 			],
 			"name": "I Am Number 1",
-			"author": "MrScootman [GDMeric]",
+			"author": "MrScootman7 [GDMeric]",
 			"more": "none",
 			"id": 88,
 			"pass": "Not Copyable",
@@ -252,6 +252,31 @@ const d = {
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/_vHqzriZuSM",
 			"key": 12
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                         "user": "StarLineZ",
+                                         "link": "https://www.youtube.com/watch?v=YArvxqoHejA&app=desktop",
+                                         "percent": 100,
+                                         "hz": "60hz"
+                                },	
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/Tlq0wf0s5CA",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },	
+			],
+			"name": "Jumbo",
+			"author": "MrScootman7",
+			"more": "none",
+			"id": 52,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/vCKtMGEAt0Y",
+			"key": 13
 		},
 		/*=================================================================================*/
 	],
