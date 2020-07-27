@@ -210,6 +210,37 @@ const d = {
 			"key": 10
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                         "user": "AptRock327",
+                                         "link": "https://youtu.be/TW_EpKOlCD4",
+                                         "percent": 100,
+                                         "hz": "60hz"
+                                },
+				{
+                                         "user": "StarLineZ",
+                                         "link": "https://www.youtube.com/watch?v=MqpeKtVMDno&t=0s&app=desktop",
+                                         "percent": 100,
+                                         "hz": "60hz"
+                                },	
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/lw8i75P6Lsg",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },	
+			],
+			"name": "We Used To Glide",
+			"author": "GDMeric",
+			"more": "none",
+			"id": 17,
+			"pass": "Not Copyable",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/gACRHnSPmSY",
+			"key": 11
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
