@@ -102,6 +102,19 @@ const d = {
 			"key": 4
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Cacalyze",
+			"author": "Cailloux",
+			"more": "none",
+			"id": 95,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/jfOnknkZtgc",
+			"key": 5
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
