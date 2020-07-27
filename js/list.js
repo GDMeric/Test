@@ -17,7 +17,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/VB0MwdEOMws",
-			"key": 1
+			"key": 0
 		},
 		/*=================================================================================*/
 		
