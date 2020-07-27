@@ -241,6 +241,19 @@ const d = {
 			"key": 11
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Le Tartarus",
+			"author": "Cailloux",
+			"more": "none",
+			"id": 109,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/_vHqzriZuSM",
+			"key": 12
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
