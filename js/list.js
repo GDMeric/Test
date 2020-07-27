@@ -64,6 +64,19 @@ const d = {
 			"key": 2
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Anime Girls",
+			"author": "Cailloux",
+			"more": "none",
+			"id": 159,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/8x6vgh1uUWY",
+			"key": 3
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
