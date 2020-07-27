@@ -140,6 +140,25 @@ const d = {
 			"key": 6
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/c4jfjQdQ43I",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },	
+			],
+			"name": "The Tartarus",
+			"author": "GhOS7 [GDMeric]",
+			"more": "none",
+			"id": 142,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/rkH4BALo4Ig",
+			"key": 7
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
