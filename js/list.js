@@ -172,6 +172,25 @@ const d = {
 			"key": 8
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/P96nSlmm68Q",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },	
+			],
+			"name": "Modern Light",
+			"author": "NotFluyd",
+			"more": "none",
+			"id": 156,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/P96nSlmm68Q",
+			"key": 9
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
