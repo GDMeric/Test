@@ -77,6 +77,31 @@ const d = {
 			"key": 3
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/2jCx1EFBU0o",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "GDMeric",
+                                         "link": "https://youtu.be/pfq65RR144c",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },		
+			],
+			"name": "Unlit Fuse",
+			"author": "BZRK12066",
+			"more": "none",
+			"id": 104,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "https://youtu.be/pfq65RR144c",
+			"key": 4
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
