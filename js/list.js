@@ -275,7 +275,7 @@ const d = {
 			"id": 52,
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
-			"verificationVid": "https://youtu.be/vCKtMGEAt0Y",
+			"verificationVid": "https://www.youtube.com/watch?v=Tlq0wf0s5CA",
 			"key": 13
 		},
 		/*=================================================================================*/
