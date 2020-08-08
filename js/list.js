@@ -143,6 +143,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://www.youtube.com/watch?v=dKiy0QHFFOQ",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },
 			],
 			"name": "Enlightenment",
 			"author": "BZRK12066",
