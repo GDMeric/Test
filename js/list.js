@@ -208,8 +208,8 @@ const d = {
 			"vids": [
 				{
                                          "user": "NotFluyd",
-                                         "link": "https://www.youtube.com/watch?v=Nc_OEOQn8jU&feature=youtu.be",
-                                         "percent": 42,
+                                         "link": "https://www.youtube.com/watch?v=IgfQnCTBN2Y&feature=youtu.be",
+                                         "percent": 51,
                                          "hz": "144hz"
                                 },	
 			],
