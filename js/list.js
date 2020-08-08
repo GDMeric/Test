@@ -79,6 +79,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://www.youtube.com/watch?v=71PD2NFuCos",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },
 			],
 			"name": "46 6c 75 69 64 49 75",
 			"author": "NotFluyd",
@@ -86,7 +92,7 @@ const d = {
 			"id": 237,
 			"pass": "Not Copyable",
 			"percentToQualify": 35,
-			"verificationVid": "",
+			"verificationVid": "https://www.youtube.com/watch?v=71PD2NFuCos",
 			"key": 4
 		},
 		/*=================================================================================*/
