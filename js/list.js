@@ -174,6 +174,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                         "user": "MrScootman7",
+                                         "link": "https://youtu.be/zh8kdN21prk",
+                                         "percent": 100,
+                                         "hz": "60hz"
+                                },	
 			],
 			"name": "Tartarus 1337",
 			"author": "GDMeric",
