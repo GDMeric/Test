@@ -206,6 +206,19 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+			],
+			"name": "Circus Show",
+			"author": "Cailloux",
+			"more": "none",
+			"id": 113,
+			"pass": "Free To Copy",
+			"percentToQualify": 35,
+			"verificationVid": "",
+			"key": 11
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
                                          "user": "Cailloux",
                                          "link": "https://youtu.be/P96nSlmm68Q",
@@ -220,7 +233,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/P96nSlmm68Q",
-			"key": 11
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -239,7 +252,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/-1xVHr4AHvQ",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -270,7 +283,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/gACRHnSPmSY",
-			"key": 13
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -283,7 +296,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/_vHqzriZuSM",
-			"key": 14
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -308,7 +321,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://www.youtube.com/watch?v=Tlq0wf0s5CA",
-			"key": 15
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -321,7 +334,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/0wNAV2AOcds",
-			"key": 16
+			"key": 17
 		},
 		/*=================================================================================*/
 	],
