@@ -269,6 +269,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+                                {
+                                         "user": "NotFluyd",
+                                         "link": "https://www.youtube.com/watch?v=ASt_vFRQZGE&feature=youtu.be",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },	
 				{
                                          "user": "StarLineZ",
                                          "link": "https://m.youtube.com/watch?v=bR6dQwmWx3w",
