@@ -338,6 +338,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+                                {
+                                         "user": "NotFluyd",
+                                         "link": "https://www.youtube.com/watch?v=UTdugbFnLF0&feature=youtu.be",
+                                         "percent": 100,
+                                         "hz": "144hzhz"
+                                },	
 				{
                                          "user": "StarLineZ",
                                          "link": "https://www.youtube.com/watch?v=YArvxqoHejA&app=desktop",
