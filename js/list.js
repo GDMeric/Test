@@ -363,6 +363,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+                                {
+                                         "user": "NotFluyd",
+                                         "link": "https://www.youtube.com/watch?v=aAzxp6crcqA&feature=youtu.be",
+                                         "percent": 100,
+                                         "hz": "144hz"
+                                },	
 			],
 			"name": "Immunity",
 			"author": "GDMeric",
