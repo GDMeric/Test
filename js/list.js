@@ -83,7 +83,7 @@ const d = {
                                          "user": "Cailloux",
                                          "link": "https://www.youtube.com/watch?v=71PD2NFuCos",
                                          "percent": 100,
-                                         "hz": "144hz"
+                                         "hz": "60hz"
                                 },
 			],
 			"name": "46 6c 75 69 64 49 75",
