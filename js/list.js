@@ -228,6 +228,19 @@ const d = {
 			"verificationVid": "https://youtu.be/vWVTHhcbYRg",
 			"key": 11
 		},
+                /*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "AP",
+			"author": "NotFluyd",
+			"more": "none",
+			"id": 192,
+			"pass": "Not Copyable",
+			"percentToQualify": 35,
+			"verificationVid": "https://www.youtube.com/watch?v=YgUElpuc3X8",
+			"key": 12
+		},
 		/*=================================================================================*/
 		{
 			"vids": [
@@ -245,7 +258,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -264,7 +277,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/P96nSlmm68Q",
-			"key": 13
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -289,7 +302,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/-1xVHr4AHvQ",
-			"key": 14
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -320,7 +333,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/gACRHnSPmSY",
-			"key": 15
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
