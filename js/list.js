@@ -9,6 +9,12 @@ const d = {
                                          "percent": 51,
                                          "hz": "144hz"
                                 },
+				{
+                                         "user": "NotFluyd",
+                                         "link": "https://www.youtube.com/watch?v=x9yYRBByupo",
+                                         "percent": 39,
+                                         "hz": "144hz"
+                                },
 			],
 			"name": "I Am Number 1",
 			"author": "MrScootman7 [GDMeric]",
