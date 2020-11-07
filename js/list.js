@@ -6,66 +6,6 @@ const d = {
 				{
                                          "user": "Cailloux",
                                          "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 50,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 51,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 52,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 53,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 54,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 55,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 56,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 57,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 58,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
-                                         "percent": 59,
-                                         "hz": "144hz"
-                                },
-				{
-                                         "user": "Cailloux",
-                                         "link": "https://youtu.be/LBsqZ5qc9o0",
                                          "percent": 60,
                                          "hz": "144hz"
                                 },
@@ -309,7 +249,7 @@ const d = {
 			"more": "none",
 			"id": 88,
 			"pass": "Not Copyable",
-			"percentToQualify": 50,
+			"percentToQualify": 60,
 			"verificationVid": "https://youtu.be/VB0MwdEOMws",
 			"key": 0
 		},
