@@ -6,13 +6,301 @@ const d = {
 				{
                                          "user": "Cailloux",
                                          "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 50,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
                                          "percent": 51,
                                          "hz": "144hz"
                                 },
 				{
-                                         "user": "NotFluyd",
-                                         "link": "https://www.youtube.com/watch?v=x9yYRBByupo",
-                                         "percent": 39,
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 52,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 53,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 54,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 55,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 56,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 57,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 58,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 59,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 60,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 61,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 62,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 63,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 64,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 65,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 66,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 67,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 68,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 69,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 70,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 71,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 72,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 73,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 74,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 75,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 76,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 77,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 78,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 79,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 80,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 81,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 82,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 83,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 84,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 85,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 86,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 87,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 88,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 89,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 90,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 91,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 92,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 93,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 94,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 95,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 96,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 97,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 98,
+                                         "hz": "144hz"
+                                },
+				{
+                                         "user": "Cailloux",
+                                         "link": "https://youtu.be/LBsqZ5qc9o0",
+                                         "percent": 99,
                                          "hz": "144hz"
                                 },
 			],
@@ -21,7 +309,7 @@ const d = {
 			"more": "none",
 			"id": 88,
 			"pass": "Not Copyable",
-			"percentToQualify": 35,
+			"percentToQualify": 50,
 			"verificationVid": "https://youtu.be/VB0MwdEOMws",
 			"key": 0
 		},
