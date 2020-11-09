@@ -352,7 +352,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/_vHqzriZuSM",
-			"key": 16
+			"key": 17
 		},
 		/*=================================================================================*/
 		{
@@ -383,7 +383,7 @@ const d = {
 			"pass": "Free To Copy",
 			"percentToQualify": 35,
 			"verificationVid": "https://www.youtube.com/watch?v=Tlq0wf0s5CA",
-			"key": 17
+			"key": 18
 		},
 		/*=================================================================================*/
 		{
@@ -402,7 +402,7 @@ const d = {
 			"pass": "Not Copyable",
 			"percentToQualify": 35,
 			"verificationVid": "https://youtu.be/0wNAV2AOcds",
-			"key": 18
+			"key": 19
 		},
 		/*=================================================================================*/
 
