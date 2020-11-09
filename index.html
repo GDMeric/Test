@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>GDPS Forum</title>
+    <title>Geometry Dash Shitty Forum</title>
     <link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
     <link href="css/stylesheet.css" type="text/css" rel="stylesheet">
     <link rel="shortcut icon" href="https://vignette.wikia.nocookie.net/geometry-dash-fan/images/4/48/Hard_Demon.png/revision/latest?cb=20171009194744" type="image/x-icon">
@@ -18,8 +18,8 @@
     <script type='text/javascript' src="js/userData.js"></script>
     <cover-all id="hi">
         <header id="dl-header">
-            <div id="sitename"><strong>GDPS Hardest Levels </strong><small><em id="version-node"></em></small></div>
-            <div id="pc-link"><a href="https://discord.gg/9by4Bam"><em><strong>Offical Discord</strong></a></em></div>
+            <div id="sitename"><strong>GD Shitty List </strong><small><em id="version-node"></em></small></div>
+            <div id="pc-link"><a href="https://discord.gg/5F299T7"><em><strong>Official Discord</strong></a></em></div>
         </header>
         <div id="list">
         </div>
@@ -43,7 +43,7 @@
                         <hr>
                         <div id="records-title"><strong>Records</strong></div><br>
                         <div id="qualification"><strong id="levelqualify"></strong>% or better required to qualify<br><br>
-                            <center><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfCkI13Fm9-BgnNORhYo6T6xy-gqI7t7zfEayhBZCHbP64wvg/viewform">> Submit Record <</a></center>
+                            <center><a target="_blank" href="https://forms.gle/TvDr8tbGk6Hh9ZsP9">> Submit Record <</a></center>
                         </div>
                         <br>
                     </center>
@@ -55,7 +55,7 @@
         </div>
         <div id="additional-information">
             <div id="inner-right-info">
-                <div><strong>Do you have a record to upload? Was your record typed incorrectly or needs to be updated? <u><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfCkI13Fm9-BgnNORhYo6T6xy-gqI7t7zfEayhBZCHbP64wvg/viewform">Request your record!</a></u></strong></div>
+                <div><strong>Do you have a record to upload? Was your record typed incorrectly or needs to be updated? <u><a target="_blank" href="https://forms.gle/TvDr8tbGk6Hh9ZsP9">Request your record!</a></u></strong></div>
                 <br>
                 <div>
                     
@@ -67,7 +67,7 @@
                         <li>Do not use secret routes or bug routes</li>
                         <li>Do not use easy modes, only original level</li>
                     </ul><br><br>
-                    &copy; 2020 Made By XanPlayzGamez https://www.youtube.com/channel/UCdSadT1m4OYhEmAjA4erwvw
+                   
                 </div>
             </div>
             <hr>
@@ -119,7 +119,7 @@
     </script>
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-        if (rank > 100) {
+        if (rank > 150) {
             return roundNumber(15, 3);
         } else {
             return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
@@ -140,17 +140,17 @@
     function getUserPoint(rank, percent, cutline, hz) {
         var hzpoint = 0.0;
         if (hz == null) {
-            hzpoint = 1;
+            hzpoint = 0;
         } else if (hz == "Mobile") {
-            hzpoint = 0.5;
+            hzpoint = 0;
         } else {
             var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
             if (hzInt >= 110) {
                 hzpoint = 0;
             } else if (hzInt >= 70) {
-                hzpoint = 0.2;
+                hzpoint = 0;
             } else {
-                hzpoint = 0.3;
+                hzpoint = 0;
             }
         }
         var point_rank = 0;
@@ -160,7 +160,7 @@
             point_rank = rank;
         }
         hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
-        if (rank > 100) {
+        if (rank > 150) {
             return 0;
         } else {
             var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
@@ -243,12 +243,12 @@
         var arank = 0;
         var brank = 0;
         if (a.key == null) {
-            arank = 100 + (legacy_count - a.legacyKey);
+            arank = 150 + (legacy_count - a.legacyKey);
         } else {
             arank = (a.key) + 1;
         }
         if (b.key == null) {
-            brank = 100 + (legacy_count - b.legacyKey);
+            brank = 150 + (legacy_count - b.legacyKey);
         } else {
             brank = (b.key) + 1;
         }
@@ -283,7 +283,7 @@
             }
             var rank = 0;
             if (entry.key == null) {
-                rank = 50 + (legacy_count - entry.legacyKey);
+                rank = 150 + (legacy_count - entry.legacyKey);
             } else {
                 rank = (entry.key) + 1;
             }
@@ -295,7 +295,7 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
-            $("#levelname").html((rank > 50 ? `` : `#` + rank + ` `) + entry.name + hacked);
+            $("#levelname").html((rank > 150 ? `` : `#` + rank + ` `) + entry.name + hacked);
             var author = entry.author;
             var final_author;
             if (author.includes(' more ')) {
