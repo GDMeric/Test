@@ -15,6 +15,12 @@ const d = {
                                          "percent": 39,
                                          "hz": "144hz"
                                 },
+				{
+                                         "user": "Lawnmower",
+                                         "link": "https://youtu.be/1ulNVNBLgKQ",
+                                         "percent": 100,
+                                         "hz": "288hz"
+                                },
 			],
 			"name": "I Am Number 1",
 			"author": "MrScootman7 [GDMeric]",
@@ -28,6 +34,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                         "user": "Lawnmower",
+                                         "link": "https://youtu.be/V3TeCHRmUss",
+                                         "percent": 100,
+                                         "hz": "288hz"
+                                },
 			],
 			"name": "Modern Circles",
 			"author": "NotFluyd",
